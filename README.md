@@ -1,11 +1,20 @@
 # My Portofolio
-All of this project I started from courses 'Introduction Python for Data Science' by Hacktiv8. I performed this study using Python language and Jupyter Notebook.
+All of this project I started from courses 'Introduction Python for Data Science' by Hacktiv8. I performed this code using Python language and Jupyter Notebook.
 In this project, we use mostly
 * numpy for numerical and mathematical operations
 * pandas DataFrame Manipulation and Handling
 * matplotlib Visualizing our Data
 * seaborn Visualizing data in more compact form
-* statsmodel Different Statistical Computing
+
 
 
 ## Project 1: London Crime
+* This project contains the code for a general analysis of the London Crime Data 2008-2016 dataset hosted by Kaggle
+* Use Python to cleaning data, explore data, and visualization
+* Creating chloropeth map for crime distribution in London 
+
+## Project 2: Bank Marketing Data Set
+* The data is related with direct marketing campaigns. The marketing campaigns were based on phone calls, in order to access if the product (bank term deposit) would be or not subscribed
+* Use Python to cleaning data, explore data, and visualization
+* Creating model machine learning to predict if client to do a bank term deposit
+* Train and Test accuracy for each model to determine which model have highest accuraycy ( Logistics Regression, Naive Bayes, KNN, Decision Tree, Random Forest and SVM)
