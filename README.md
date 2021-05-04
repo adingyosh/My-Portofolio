@@ -8,12 +8,12 @@ In this project, we use mostly
 
 
 
-## Project 1: London Crime
+## [Project 1: London Crime](https://github.com/adingyosh/My-Portofolio/blob/main/Project%201.ipynb)
 * This project contains the code for a general analysis of the London Crime Data 2008-2016 dataset hosted by Kaggle
 * Use Python to cleaning data, explore data, and visualization
 * Creating chloropeth map for crime distribution in London 
 
-## Project 2: Bank Marketing Data Set
+## Project 2: [Bank Marketing Data Set](https://github.com/adingyosh/My-Portofolio/blob/main/Project%202.ipynb)
 * The data is related with direct marketing campaigns. The marketing campaigns were based on phone calls, in order to access if the product (bank term deposit) would be or not subscribed
 * Use Python to cleaning data, explore data, and visualization
 * Creating model machine learning to predict client make a deposit
