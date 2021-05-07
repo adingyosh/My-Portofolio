@@ -1,4 +1,4 @@
-# My Portofolio
+# My Data Analysis Portofolio
 All of this project I started from courses 'Introduction Python for Data Science' by Hacktiv8. I performed this code using Python language and Jupyter Notebook.
 In this project, we use mostly
 * numpy for numerical and mathematical operations
