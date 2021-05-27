@@ -34,5 +34,5 @@ In this project, we use mostly
 
 * Use Python to cleaning data, explore data, and visualization
 * Creating linear Regression model to predict house price with several condition
-* Model deployment with flask
+* Model deployment using flask
 
