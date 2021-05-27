@@ -29,3 +29,6 @@ In this project, we use mostly
 - Student and retired seems interested to do deposit
 - Random forest has highest accuracy for model 90.4 %
 - Highest feature importance for model are duration, balance and age
+
+## [Project 3: House Price Prediction](https://github.com/adingyosh/H8ModelDeploy_PYTN052_Fadlil)
+
