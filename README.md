@@ -1,5 +1,5 @@
 # My Data Analysis Portofolio
-All of this project I started from courses 'Introduction Python for Data Science' by Hacktiv8. I performed this code using Python language and Jupyter Notebook.
+Portofolio is made by myself i purpose to study, self improvement and All of this project I started from courses 'Introduction Python for Data Science' by Hacktiv8. I performed this code using Python language and Jupyter Notebook.
 In this project, we use mostly
 * numpy for numerical and mathematical operations
 * pandas DataFrame Manipulation and Handling
@@ -31,4 +31,8 @@ In this project, we use mostly
 - Highest feature importance for model are duration, balance and age
 
 ## [Project 3: House Price Prediction](https://github.com/adingyosh/H8ModelDeploy_PYTN052_Fadlil)
+
+* Use Python to cleaning data, explore data, and visualization
+* Creating linear Regression model to predict house price with several condition
+* Model deployment with flask
 
