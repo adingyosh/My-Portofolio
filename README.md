@@ -36,3 +36,14 @@ In this project, we use mostly
 * Creating linear Regression model to predict house price with several condition
 * Model deployment using flask
 
+## [Project:4 Loan Prediction](https://github.com/adingyosh/My-Portofolio/blob/main/Loan%20Prediction%20project.ipynb)
+* Based on variety of dataset showing different kind of people with various status and likeness to return the Loan and our model understood the pattern of the Data
+* Use Python to cleaning data, explore data, and visualization
+
+#### Result
+* Most important features for model is income type, education and housing type
+* Bussinessman and Student have no problem with payment loan
+* Higher education have better record on payment
+* Client who live in their house have better record on payment than client who lived in rented apartment
+* Decision Tree Has highest accuracy for Model for Target to help next lender decision
+Decision Tree Has highest accuracy for Model for Target to help next lender decision
