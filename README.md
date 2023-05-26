@@ -47,3 +47,6 @@ In this project, we use mostly
 * Client who live in their house have better record on payment than client who lived in rented apartment
 * Decision Tree Has highest accuracy for Model for Target to help next lender decision
 Decision Tree Has highest accuracy for Model for Target to help next lender decision
+
+## [Project:5 Dashboard in Google Data studio](https://lookerstudio.google.com/u/1/reporting/74b59bc6-d3ac-44c3-add2-f7529a2a0150/page/qmyRD)
+* Sample sales dashboard for data visualization
