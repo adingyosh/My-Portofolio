@@ -18,7 +18,7 @@ In this project, we use mostly
 - Top 3 crime major category are theft, violence againts person and burglary
 - Most popular crime minor category in violence againts person is Harrasment
 
-## [Project 2: Bank Marketing Data Set](https://github.com/adingyosh/My-Portofolio/blob/main/Project%202.ipynb)
+## [Project 2: Bank Marketing Data Set](https://github.com/adingyosh/My-Portofolio/blob/main/Project%20Bank%20Customer%20Deposit.ipynb)
 * The data is related with direct marketing campaigns. The marketing campaigns were based on phone calls, in order to access if the product (bank term deposit) would be or not subscribed
 * Use Python to cleaning data, explore data, and visualization
 * Creating model machine learning in order to improve future marketing campaigns for the bank
