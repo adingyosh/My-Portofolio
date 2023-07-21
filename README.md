@@ -52,8 +52,6 @@ Decision Tree Has highest accuracy for Model for Target to help next lender deci
 * Sample sales dashboard for data visualization
 * ![Dasboard Example 1](https://github.com/adingyosh/Dashboard-Example/blob/main/d1r.jpg)
 * ![Dasboard Example 2](https://github.com/adingyosh/Dashboard-Example/blob/main/d2r.jpg)
-* ![Dasboard Example 3](https://github.com/adingyosh/Dashboard-Example/blob/main/d3r.jpg)
-* ![Dasboard Example 4](https://github.com/adingyosh/Dashboard-Example/blob/main/d4r.jpg)
-* ![Dasboard Example 5](https://github.com/adingyosh/Dashboard-Example/blob/main/d5r.jpg)
-* ![Dasboard Example 6](https://github.com/adingyosh/Dashboard-Example/blob/main/d6r.jpg)
+* ![Dasboard Example 3](https://github.com/adingyosh/Dashboard-Example/blob/main/d3r.jpg) ![Dasboard Example 4](https://github.com/adingyosh/Dashboard-Example/blob/main/d4r.jpg)
+* ![Dasboard Example 5](https://github.com/adingyosh/Dashboard-Example/blob/main/d5r.jpg) ![Dasboard Example 6](https://github.com/adingyosh/Dashboard-Example/blob/main/d6r.jpg)
    
