@@ -50,3 +50,4 @@ Decision Tree Has highest accuracy for Model for Target to help next lender deci
 
 ## [Project:5 Dashboard in Google Data studio](https://lookerstudio.google.com/u/1/reporting/74b59bc6-d3ac-44c3-add2-f7529a2a0150/page/qmyRD)
 * Sample sales dashboard for data visualization
+* ![A test image](https://github.com/adingyosh/Dashboard-Example/blob/main/d1r.jpg)
