@@ -49,6 +49,6 @@ In this project, we use mostly
 Decision Tree Has highest accuracy for Model for Target to help next lender decision
 
 ## Project:5 Dashboard in Google Data studio
-* 1. [Sample sales dashboard for data visualization](https://lookerstudio.google.com/u/1/reporting/74b59bc6-d3ac-44c3-add2-f7529a2a0150/page/qmyRD)
-* 2. [Sample sales dashboard for data visualization](https://lookerstudio.google.com/reporting/b6248e49-d19d-4ed8-aa20-e3c7f6fd00c7/page/7N2cD)
+* [Sample sales dashboard version 1](https://lookerstudio.google.com/u/1/reporting/74b59bc6-d3ac-44c3-add2-f7529a2a0150/page/qmyRD)
+* [Sample sales dashboard version 2](https://lookerstudio.google.com/reporting/b6248e49-d19d-4ed8-aa20-e3c7f6fd00c7/page/7N2cD)
    
