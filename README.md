@@ -36,7 +36,7 @@ In this project, we use mostly
 * Creating linear Regression model to predict house price with several condition
 * Model deployment using flask
 
-## [Project:4 Loan Prediction](https://github.com/adingyosh/My-Portofolio/blob/main/Loan%20Prediction%20project.ipynb)
+## [Project 4: Loan Prediction](https://github.com/adingyosh/My-Portofolio/blob/main/Loan%20Prediction%20project.ipynb)
 * Based on variety of dataset showing different kind of people with various status and likeness to return the Loan and our model understood the pattern of the Data
 * Use Python to cleaning data, explore data, and visualization
 
@@ -48,7 +48,7 @@ In this project, we use mostly
 * Decision Tree Has highest accuracy for Model for Target to help next lender decision
 Decision Tree Has highest accuracy for Model for Target to help next lender decision
 
-## Project:5 Dashboard in Google Data studio
+## Project5: Dashboard in Google Data studio
 * [Sample sales dashboard version 1](https://lookerstudio.google.com/u/1/reporting/74b59bc6-d3ac-44c3-add2-f7529a2a0150/page/qmyRD)
 * [Sample sales dashboard version 2](https://lookerstudio.google.com/reporting/b6248e49-d19d-4ed8-aa20-e3c7f6fd00c7/page/7N2cD)
    
