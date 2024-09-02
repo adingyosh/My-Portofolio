@@ -1,5 +1,5 @@
 # My Portofolio 
-Portofolio is made by myself in purpose to study and self improvement. All of this project I started from courses 'Introduction Python for Data Science' by Hacktiv8. I performed this code using Python language and Jupyter Notebook. My work project is ([here](https://github.com/adingyosh/My-Work-Project))
+Portofolio is made by myself in purpose to study and self improvement. All of this project I started from courses 'Introduction Python for Data Science' by Hacktiv8. I performed this code using Python language and Jupyter Notebook. You can also visit my work project in ([here](https://github.com/adingyosh/My-Work-Project)).
 In this project, we use mostly
 * numpy for numerical and mathematical operations
 * pandas DataFrame Manipulation and Handling
