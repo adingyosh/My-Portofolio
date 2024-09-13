@@ -9,8 +9,8 @@ In this project, we use mostly
 * create dashboard using looker studio 
 
 ## Project : Dashboard in Google Data studio
-* [Sample sales dashboard version 1](https://lookerstudio.google.com/u/1/reporting/74b59bc6-d3ac-44c3-add2-f7529a2a0150/page/qmyRD)
-  Metric: Total Sales, Monthly Sales, Monthly Transaction, Total Product Ordered, Sales by City, Sales by Product
+* [Sample sales dashboard version 1](https://lookerstudio.google.com/reporting/fd520440-60ef-49ca-8756-be60ae5e49e9/page/wc69D)
+  Metric: Total Sales, Monthly Sales, Total Transaction, Gross Profit, Sales by Country, Sales by Product
 * [Sample sales dashboard version 2](https://lookerstudio.google.com/reporting/b6248e49-d19d-4ed8-aa20-e3c7f6fd00c7/page/7N2cD)
   Metric: Total Sales, Total Transaction, Total User, Monthly Sales, AOV, Sales by Category Product, Cohort User, Top Product
 
